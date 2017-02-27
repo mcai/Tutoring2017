@@ -11,3 +11,6 @@
 参考：
 
 https://github.com/mcai/gem5_ccnuma
+
+GitHub - davidepatti/noxim: Network on Chip Simulator
+https://github.com/davidepatti/noxim
