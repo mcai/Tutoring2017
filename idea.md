@@ -7,3 +7,5 @@
 运行 `<IDEA_extraction_dir>/bin/idea.sh` 。
 
 然后在IDEA中用File->Open打开项目文件夹，并在IDEA底部**Version Control**标签页中进行git版本控制操作。
+
+VCS->Enable Version Control Integration->Git, 点击OK。
