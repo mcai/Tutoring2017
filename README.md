@@ -8,9 +8,14 @@
 
 4. 参考`idea.md`配置IntelliJ IDEA开发环境。
 
-参考：
+## gem5 修改之参考
 
 https://github.com/mcai/gem5_ccnuma
 
-GitHub - davidepatti/noxim: Network on Chip Simulator
+## NoC Simulation
+
+* GitHub - davidepatti/noxim: Network on Chip Simulator
 https://github.com/davidepatti/noxim
+
+* Network-on-Chip (NoC) Blog 
+https://networkonchip.wordpress.com/2011/02/22/simulators/
